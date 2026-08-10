@@ -4,5 +4,5 @@ channels:
   - https://prefix.dev/conda-forge
 dependencies:
   - xeus-python
-  - pandas
-  - bqplot
+  - numpy
+  - plotly
